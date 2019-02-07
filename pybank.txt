@@ -1,0 +1,7 @@
+FinancialAnalysis 
+---------------
+Total Months: 86
+Total Revenue: 38382578
+AverageChange: 451559.74
+Greatest Increase In Profits: Feb-2012 1926159
+Greatest Decrease In Profits: Sep-2013 -2196167
